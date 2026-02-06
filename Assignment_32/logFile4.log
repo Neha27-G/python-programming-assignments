@@ -1,0 +1,7 @@
+------------------Log file for Assignmnet 4---------------------
+-----------Automation script for deleting duplicate files-------
+Deleted Files are : 
+Demo\A copy.txt
+Demo\A.txt
+Total deleted files : 2
+Time required for execution : 0.005107879638671875

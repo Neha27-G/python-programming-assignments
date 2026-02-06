@@ -1,0 +1,7 @@
+------------------Log file for Assignmnet 3---------------------
+-----------Automation script for deleting duplicate files-------
+Deleted Files are : 
+Demo\A copy.txt
+Demo\A.txt
+Demo\B.pdf
+Total deleted files : 3
