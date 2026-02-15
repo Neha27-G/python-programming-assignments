@@ -1,0 +1,2899 @@
+------------------------------------------------------------------------------------------
+---------------- Marvellous Platform Surveillance System ----------------
+Log file created at : Fri Feb 13 22:57:07 2026
+------------------------------------------------------------------------------------------
+
+CPU Usage : 3.4 %
+RAM Usage : 68.9 %
+------------------------------------------------------------------------------------------
+Disk Usage Report
+C:\ -> 27.4 % used
+Network Sent : 36.92 MB
+Network Received : 546.44 MB
+------------------------------------------------------------------------------------------
+
+Process Name : System Idle Process
+PID : 0
+CPU % : 1868.70
+Memory RSS : 0.01 MB
+Memory VMS : 0.06 MB
+Memory % : 0.00
+Threads Count : 54
+Open Files Count : 0
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : System
+PID : 4
+CPU % : 0.00
+Memory RSS : 8.14 MB
+Memory VMS : 0.07 MB
+Memory % : 0.05
+Threads Count : 372
+Open Files Count : 0
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : 
+PID : 260
+CPU % : 0.00
+Memory RSS : 62.74 MB
+Memory VMS : 0.17 MB
+Memory % : 0.40
+Threads Count : 0
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : Registry
+PID : 304
+CPU % : 0.00
+Memory RSS : 35.16 MB
+Memory VMS : 12.04 MB
+Memory % : 0.22
+Threads Count : 4
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 860
+CPU % : 0.00
+Memory RSS : 6.73 MB
+Memory VMS : 1.36 MB
+Memory % : 0.04
+Threads Count : 2
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : smss.exe
+PID : 888
+CPU % : 0.00
+Memory RSS : 1.52 MB
+Memory VMS : 1.15 MB
+Memory % : 0.01
+Threads Count : 2
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedge.exe
+PID : 1004
+CPU % : 0.00
+Memory RSS : 64.11 MB
+Memory VMS : 67.50 MB
+Memory % : 0.41
+Threads Count : 32
+Open Files Count : 34
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : csrss.exe
+PID : 1204
+CPU % : 0.00
+Memory RSS : 6.26 MB
+Memory VMS : 2.63 MB
+Memory % : 0.04
+Threads Count : 15
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedge.exe
+PID : 1212
+CPU % : 0.00
+Memory RSS : 16.77 MB
+Memory VMS : 9.24 MB
+Memory % : 0.11
+Threads Count : 10
+Open Files Count : 21
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : wininit.exe
+PID : 1308
+CPU % : 0.00
+Memory RSS : 7.28 MB
+Memory VMS : 1.49 MB
+Memory % : 0.05
+Threads Count : 1
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : csrss.exe
+PID : 1316
+CPU % : 0.00
+Memory RSS : 6.91 MB
+Memory VMS : 3.07 MB
+Memory % : 0.04
+Threads Count : 15
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : winlogon.exe
+PID : 1376
+CPU % : 0.00
+Memory RSS : 15.22 MB
+Memory VMS : 2.73 MB
+Memory % : 0.10
+Threads Count : 4
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : services.exe
+PID : 1448
+CPU % : 0.00
+Memory RSS : 18.28 MB
+Memory VMS : 7.03 MB
+Memory % : 0.12
+Threads Count : 8
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : cmd.exe
+PID : 1456
+CPU % : 0.00
+Memory RSS : 4.12 MB
+Memory VMS : 1.90 MB
+Memory % : 0.03
+Threads Count : 1
+Open Files Count : 0
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : SearchIndexer.exe
+PID : 1460
+CPU % : 0.00
+Memory RSS : 45.80 MB
+Memory VMS : 42.32 MB
+Memory % : 0.29
+Threads Count : 14
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : LsaIso.exe
+PID : 1468
+CPU % : 0.00
+Memory RSS : 3.95 MB
+Memory VMS : 1.30 MB
+Memory % : 0.02
+Threads Count : 1
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : lsass.exe
+PID : 1476
+CPU % : 0.00
+Memory RSS : 35.13 MB
+Memory VMS : 13.89 MB
+Memory % : 0.22
+Threads Count : 12
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 1496
+CPU % : 0.00
+Memory RSS : 10.04 MB
+Memory VMS : 2.44 MB
+Memory % : 0.06
+Threads Count : 6
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 1536
+CPU % : 0.00
+Memory RSS : 7.64 MB
+Memory VMS : 1.82 MB
+Memory % : 0.05
+Threads Count : 3
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 1548
+CPU % : 0.00
+Memory RSS : 9.09 MB
+Memory VMS : 1.89 MB
+Memory % : 0.06
+Threads Count : 4
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : AdobeCollabSync.exe
+PID : 1584
+CPU % : 0.00
+Memory RSS : 23.97 MB
+Memory VMS : 7.94 MB
+Memory % : 0.15
+Threads Count : 9
+Open Files Count : 4
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 1612
+CPU % : 0.00
+Memory RSS : 40.31 MB
+Memory VMS : 12.00 MB
+Memory % : 0.26
+Threads Count : 13
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 1628
+CPU % : 0.00
+Memory RSS : 8.89 MB
+Memory VMS : 8.82 MB
+Memory % : 0.06
+Threads Count : 3
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : fontdrvhost.exe
+PID : 1640
+CPU % : 0.00
+Memory RSS : 3.32 MB
+Memory VMS : 1.66 MB
+Memory % : 0.02
+Threads Count : 5
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : fontdrvhost.exe
+PID : 1648
+CPU % : 0.00
+Memory RSS : 6.77 MB
+Memory VMS : 4.19 MB
+Memory % : 0.04
+Threads Count : 5
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : WUDFHost.exe
+PID : 1688
+CPU % : 0.00
+Memory RSS : 10.53 MB
+Memory VMS : 2.46 MB
+Memory % : 0.07
+Threads Count : 7
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 1784
+CPU % : 0.00
+Memory RSS : 19.80 MB
+Memory VMS : 10.50 MB
+Memory % : 0.13
+Threads Count : 10
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 1836
+CPU % : 0.00
+Memory RSS : 11.96 MB
+Memory VMS : 3.37 MB
+Memory % : 0.08
+Threads Count : 7
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : WUDFHost.exe
+PID : 1892
+CPU % : 14.30
+Memory RSS : 22.20 MB
+Memory VMS : 13.00 MB
+Memory % : 0.14
+Threads Count : 21
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : dwm.exe
+PID : 1940
+CPU % : 14.60
+Memory RSS : 200.41 MB
+Memory VMS : 474.64 MB
+Memory % : 1.27
+Threads Count : 20
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : conhost.exe
+PID : 2024
+CPU % : 0.00
+Memory RSS : 5.69 MB
+Memory VMS : 1.13 MB
+Memory % : 0.04
+Threads Count : 2
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2140
+CPU % : 0.00
+Memory RSS : 11.82 MB
+Memory VMS : 4.00 MB
+Memory % : 0.07
+Threads Count : 11
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2156
+CPU % : 0.00
+Memory RSS : 8.86 MB
+Memory VMS : 1.82 MB
+Memory % : 0.06
+Threads Count : 1
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2196
+CPU % : 0.00
+Memory RSS : 12.80 MB
+Memory VMS : 2.48 MB
+Memory % : 0.08
+Threads Count : 3
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2204
+CPU % : 0.00
+Memory RSS : 14.62 MB
+Memory VMS : 2.16 MB
+Memory % : 0.09
+Threads Count : 2
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2212
+CPU % : 0.00
+Memory RSS : 12.65 MB
+Memory VMS : 3.21 MB
+Memory % : 0.08
+Threads Count : 5
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2220
+CPU % : 0.00
+Memory RSS : 17.09 MB
+Memory VMS : 6.67 MB
+Memory % : 0.11
+Threads Count : 7
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 2260
+CPU % : 0.00
+Memory RSS : 81.46 MB
+Memory VMS : 23.14 MB
+Memory % : 0.52
+Threads Count : 16
+Open Files Count : 2
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : WUDFHost.exe
+PID : 2312
+CPU % : 0.00
+Memory RSS : 15.80 MB
+Memory VMS : 5.39 MB
+Memory % : 0.10
+Threads Count : 9
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2404
+CPU % : 0.00
+Memory RSS : 10.07 MB
+Memory VMS : 2.77 MB
+Memory % : 0.06
+Threads Count : 8
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2412
+CPU % : 0.00
+Memory RSS : 10.87 MB
+Memory VMS : 3.31 MB
+Memory % : 0.07
+Threads Count : 9
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2420
+CPU % : 0.00
+Memory RSS : 14.98 MB
+Memory VMS : 3.37 MB
+Memory % : 0.09
+Threads Count : 6
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2472
+CPU % : 0.00
+Memory RSS : 7.08 MB
+Memory VMS : 2.29 MB
+Memory % : 0.04
+Threads Count : 15
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2592
+CPU % : 0.00
+Memory RSS : 20.57 MB
+Memory VMS : 6.98 MB
+Memory % : 0.13
+Threads Count : 11
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : powershell.exe
+PID : 2756
+CPU % : 0.00
+Memory RSS : 73.96 MB
+Memory VMS : 64.68 MB
+Memory % : 0.47
+Threads Count : 10
+Open Files Count : 7
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2788
+CPU % : 0.00
+Memory RSS : 9.57 MB
+Memory VMS : 2.31 MB
+Memory % : 0.06
+Threads Count : 8
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : WUDFHost.exe
+PID : 2840
+CPU % : 0.00
+Memory RSS : 10.30 MB
+Memory VMS : 9.63 MB
+Memory % : 0.07
+Threads Count : 5
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 2924
+CPU % : 0.00
+Memory RSS : 0.53 MB
+Memory VMS : 127.95 MB
+Memory % : 0.00
+Threads Count : 31
+Open Files Count : 37
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2928
+CPU % : 0.00
+Memory RSS : 12.74 MB
+Memory VMS : 2.17 MB
+Memory % : 0.08
+Threads Count : 2
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3044
+CPU % : 0.00
+Memory RSS : 13.01 MB
+Memory VMS : 2.98 MB
+Memory % : 0.08
+Threads Count : 6
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3068
+CPU % : 0.00
+Memory RSS : 10.12 MB
+Memory VMS : 1.94 MB
+Memory % : 0.06
+Threads Count : 2
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 3144
+CPU % : 0.00
+Memory RSS : 8.81 MB
+Memory VMS : 2.48 MB
+Memory % : 0.06
+Threads Count : 7
+Open Files Count : 1
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3168
+CPU % : 0.00
+Memory RSS : 18.22 MB
+Memory VMS : 3.73 MB
+Memory % : 0.12
+Threads Count : 9
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : OneDrive.exe
+PID : 3252
+CPU % : 0.00
+Memory RSS : 189.82 MB
+Memory VMS : 167.65 MB
+Memory % : 1.20
+Threads Count : 44
+Open Files Count : 51
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3308
+CPU % : 0.00
+Memory RSS : 12.36 MB
+Memory VMS : 3.80 MB
+Memory % : 0.08
+Threads Count : 6
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3436
+CPU % : 0.00
+Memory RSS : 17.66 MB
+Memory VMS : 15.97 MB
+Memory % : 0.11
+Threads Count : 8
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : wsc_proxy.exe
+PID : 3504
+CPU % : 0.00
+Memory RSS : 15.23 MB
+Memory VMS : 4.27 MB
+Memory % : 0.10
+Threads Count : 3
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3512
+CPU % : 0.00
+Memory RSS : 18.56 MB
+Memory VMS : 3.21 MB
+Memory % : 0.12
+Threads Count : 3
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3520
+CPU % : 0.00
+Memory RSS : 7.38 MB
+Memory VMS : 1.48 MB
+Memory % : 0.05
+Threads Count : 4
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3528
+CPU % : 0.00
+Memory RSS : 8.58 MB
+Memory VMS : 1.73 MB
+Memory % : 0.05
+Threads Count : 4
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3536
+CPU % : 0.00
+Memory RSS : 9.82 MB
+Memory VMS : 2.09 MB
+Memory % : 0.06
+Threads Count : 5
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3628
+CPU % : 0.00
+Memory RSS : 22.12 MB
+Memory VMS : 8.87 MB
+Memory % : 0.14
+Threads Count : 9
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : MemCompression
+PID : 3684
+CPU % : 0.00
+Memory RSS : 948.68 MB
+Memory VMS : 2.54 MB
+Memory % : 6.00
+Threads Count : 34
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 3696
+CPU % : 0.00
+Memory RSS : 82.38 MB
+Memory VMS : 67.20 MB
+Memory % : 0.52
+Threads Count : 38
+Open Files Count : 5
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3732
+CPU % : 0.00
+Memory RSS : 12.23 MB
+Memory VMS : 2.45 MB
+Memory % : 0.08
+Threads Count : 3
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3804
+CPU % : 0.00
+Memory RSS : 23.16 MB
+Memory VMS : 15.00 MB
+Memory % : 0.15
+Threads Count : 14
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : AppHelperCap.exe
+PID : 3868
+CPU % : 0.00
+Memory RSS : 24.20 MB
+Memory VMS : 8.43 MB
+Memory % : 0.15
+Threads Count : 3
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : DiagsCap.exe
+PID : 3876
+CPU % : 0.00
+Memory RSS : 18.89 MB
+Memory VMS : 21.83 MB
+Memory % : 0.12
+Threads Count : 3
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3884
+CPU % : 0.00
+Memory RSS : 11.13 MB
+Memory VMS : 2.31 MB
+Memory % : 0.07
+Threads Count : 3
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3892
+CPU % : 0.00
+Memory RSS : 9.96 MB
+Memory VMS : 2.25 MB
+Memory % : 0.06
+Threads Count : 7
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : NetworkCap.exe
+PID : 3900
+CPU % : 0.00
+Memory RSS : 14.86 MB
+Memory VMS : 3.96 MB
+Memory % : 0.09
+Threads Count : 3
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : SysInfoCap.exe
+PID : 3908
+CPU % : 0.00
+Memory RSS : 108.98 MB
+Memory VMS : 206.97 MB
+Memory % : 0.69
+Threads Count : 21
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : TouchpointAnalyticsClientService.exe
+PID : 3916
+CPU % : 0.00
+Memory RSS : 62.79 MB
+Memory VMS : 58.57 MB
+Memory % : 0.40
+Threads Count : 10
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 4144
+CPU % : 0.00
+Memory RSS : 26.29 MB
+Memory VMS : 16.79 MB
+Memory % : 0.17
+Threads Count : 5
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : conhost.exe
+PID : 4236
+CPU % : 0.00
+Memory RSS : 6.54 MB
+Memory VMS : 1.16 MB
+Memory % : 0.04
+Threads Count : 2
+Open Files Count : 1
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 4328
+CPU % : 0.00
+Memory RSS : 26.08 MB
+Memory VMS : 4.54 MB
+Memory % : 0.17
+Threads Count : 8
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : sihost.exe
+PID : 4356
+CPU % : 0.00
+Memory RSS : 52.11 MB
+Memory VMS : 10.45 MB
+Memory % : 0.33
+Threads Count : 13
+Open Files Count : 4
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 4368
+CPU % : 0.00
+Memory RSS : 8.50 MB
+Memory VMS : 1.48 MB
+Memory % : 0.05
+Threads Count : 1
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 4432
+CPU % : 0.00
+Memory RSS : 8.93 MB
+Memory VMS : 1.75 MB
+Memory % : 0.06
+Threads Count : 2
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 4452
+CPU % : 0.00
+Memory RSS : 33.98 MB
+Memory VMS : 11.14 MB
+Memory % : 0.22
+Threads Count : 9
+Open Files Count : 7
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : OpenConsole.exe
+PID : 4464
+CPU % : 0.00
+Memory RSS : 20.10 MB
+Memory VMS : 3.54 MB
+Memory % : 0.13
+Threads Count : 8
+Open Files Count : 4
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 4524
+CPU % : 0.00
+Memory RSS : 11.00 MB
+Memory VMS : 2.11 MB
+Memory % : 0.07
+Threads Count : 3
+Open Files Count : 2
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 4592
+CPU % : 0.00
+Memory RSS : 43.56 MB
+Memory VMS : 9.64 MB
+Memory % : 0.28
+Threads Count : 6
+Open Files Count : 8
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 4608
+CPU % : 0.00
+Memory RSS : 27.60 MB
+Memory VMS : 13.18 MB
+Memory % : 0.17
+Threads Count : 18
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 4640
+CPU % : 0.00
+Memory RSS : 8.90 MB
+Memory VMS : 1.60 MB
+Memory % : 0.06
+Threads Count : 2
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : taskhostw.exe
+PID : 4672
+CPU % : 0.00
+Memory RSS : 24.39 MB
+Memory VMS : 9.62 MB
+Memory % : 0.15
+Threads Count : 8
+Open Files Count : 8
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : OmenInstallMonitor.exe
+PID : 4700
+CPU % : 0.00
+Memory RSS : 6.41 MB
+Memory VMS : 33.57 MB
+Memory % : 0.04
+Threads Count : 7
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : OverlayHelper.exe
+PID : 4708
+CPU % : 0.00
+Memory RSS : 21.41 MB
+Memory VMS : 51.18 MB
+Memory % : 0.14
+Threads Count : 20
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : SystemOptimizer.exe
+PID : 4716
+CPU % : 0.00
+Memory RSS : 8.45 MB
+Memory VMS : 45.89 MB
+Memory % : 0.05
+Threads Count : 12
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 4732
+CPU % : 0.00
+Memory RSS : 14.40 MB
+Memory VMS : 7.01 MB
+Memory % : 0.09
+Threads Count : 8
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedge.exe
+PID : 4740
+CPU % : 0.00
+Memory RSS : 37.64 MB
+Memory VMS : 16.59 MB
+Memory % : 0.24
+Threads Count : 21
+Open Files Count : 20
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : CCleaner.exe
+PID : 4912
+CPU % : 0.00
+Memory RSS : 3.14 MB
+Memory VMS : 4.78 MB
+Memory % : 0.02
+Threads Count : 9
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : ctfmon.exe
+PID : 4924
+CPU % : 0.00
+Memory RSS : 34.58 MB
+Memory VMS : 8.64 MB
+Memory % : 0.22
+Threads Count : 12
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 5068
+CPU % : 0.00
+Memory RSS : 10.71 MB
+Memory VMS : 1.93 MB
+Memory % : 0.07
+Threads Count : 5
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : avgToolsSvc.exe
+PID : 5076
+CPU % : 0.00
+Memory RSS : 58.25 MB
+Memory VMS : 49.69 MB
+Memory % : 0.37
+Threads Count : 38
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 5156
+CPU % : 0.00
+Memory RSS : 13.20 MB
+Memory VMS : 2.63 MB
+Memory % : 0.08
+Threads Count : 4
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 5228
+CPU % : 0.00
+Memory RSS : 31.02 MB
+Memory VMS : 72.71 MB
+Memory % : 0.20
+Threads Count : 27
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 5276
+CPU % : 0.00
+Memory RSS : 35.20 MB
+Memory VMS : 6.70 MB
+Memory % : 0.22
+Threads Count : 8
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : WmiPrvSE.exe
+PID : 5436
+CPU % : 0.00
+Memory RSS : 28.25 MB
+Memory VMS : 16.23 MB
+Memory % : 0.18
+Threads Count : 7
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 5516
+CPU % : 0.00
+Memory RSS : 4.63 MB
+Memory VMS : 73.76 MB
+Memory % : 0.03
+Threads Count : 31
+Open Files Count : 35
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 5556
+CPU % : 0.00
+Memory RSS : 144.38 MB
+Memory VMS : 97.54 MB
+Memory % : 0.91
+Threads Count : 53
+Open Files Count : 170
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : conhost.exe
+PID : 5672
+CPU % : 0.00
+Memory RSS : 8.62 MB
+Memory VMS : 1.50 MB
+Memory % : 0.05
+Threads Count : 5
+Open Files Count : 1
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 5676
+CPU % : 0.00
+Memory RSS : 12.20 MB
+Memory VMS : 2.43 MB
+Memory % : 0.08
+Threads Count : 4
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : chrome.exe
+PID : 5684
+CPU % : 0.00
+Memory RSS : 56.64 MB
+Memory VMS : 27.92 MB
+Memory % : 0.36
+Threads Count : 32
+Open Files Count : 22
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : unsecapp.exe
+PID : 5752
+CPU % : 0.00
+Memory RSS : 12.33 MB
+Memory VMS : 2.82 MB
+Memory % : 0.08
+Threads Count : 3
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 5880
+CPU % : 0.00
+Memory RSS : 126.93 MB
+Memory VMS : 41.65 MB
+Memory % : 0.80
+Threads Count : 54
+Open Files Count : 92
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 5960
+CPU % : 0.00
+Memory RSS : 22.82 MB
+Memory VMS : 7.04 MB
+Memory % : 0.14
+Threads Count : 12
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : WmiPrvSE.exe
+PID : 5968
+CPU % : 0.00
+Memory RSS : 18.26 MB
+Memory VMS : 6.84 MB
+Memory % : 0.12
+Threads Count : 8
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 6008
+CPU % : 0.00
+Memory RSS : 17.79 MB
+Memory VMS : 2.93 MB
+Memory % : 0.11
+Threads Count : 5
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : AVGSvc.exe
+PID : 6032
+CPU % : 0.00
+Memory RSS : 104.87 MB
+Memory VMS : 89.81 MB
+Memory % : 0.66
+Threads Count : 159
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : WindowsPackageManagerServer.exe
+PID : 6152
+CPU % : 0.00
+Memory RSS : 36.93 MB
+Memory VMS : 8.72 MB
+Memory % : 0.23
+Threads Count : 6
+Open Files Count : 11
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : chrome.exe
+PID : 6172
+CPU % : 0.00
+Memory RSS : 197.12 MB
+Memory VMS : 299.70 MB
+Memory % : 1.25
+Threads Count : 46
+Open Files Count : 7
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : spoolsv.exe
+PID : 6248
+CPU % : 0.00
+Memory RSS : 18.61 MB
+Memory VMS : 6.00 MB
+Memory % : 0.12
+Threads Count : 7
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : AVGUI.exe
+PID : 6284
+CPU % : 0.00
+Memory RSS : 40.83 MB
+Memory VMS : 17.32 MB
+Memory % : 0.26
+Threads Count : 12
+Open Files Count : 0
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 6396
+CPU % : 0.00
+Memory RSS : 27.91 MB
+Memory VMS : 28.38 MB
+Memory % : 0.18
+Threads Count : 18
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 6448
+CPU % : 0.00
+Memory RSS : 12.04 MB
+Memory VMS : 2.14 MB
+Memory % : 0.08
+Threads Count : 3
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 6476
+CPU % : 0.00
+Memory RSS : 9.64 MB
+Memory VMS : 1.88 MB
+Memory % : 0.06
+Threads Count : 4
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 6496
+CPU % : 0.00
+Memory RSS : 10.11 MB
+Memory VMS : 2.04 MB
+Memory % : 0.06
+Threads Count : 5
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : armsvc.exe
+PID : 6560
+CPU % : 0.00
+Memory RSS : 7.59 MB
+Memory VMS : 1.73 MB
+Memory % : 0.05
+Threads Count : 2
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : DtsApo4Service.exe
+PID : 6572
+CPU % : 0.00
+Memory RSS : 22.58 MB
+Memory VMS : 46.68 MB
+Memory % : 0.14
+Threads Count : 4
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : HPCommRecovery.exe
+PID : 6588
+CPU % : 0.00
+Memory RSS : 24.82 MB
+Memory VMS : 20.58 MB
+Memory % : 0.16
+Threads Count : 6
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : ETDService.exe
+PID : 6596
+CPU % : 0.00
+Memory RSS : 7.43 MB
+Memory VMS : 1.53 MB
+Memory % : 0.05
+Threads Count : 4
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : CCleaner_service.exe
+PID : 6604
+CPU % : 0.00
+Memory RSS : 66.26 MB
+Memory VMS : 254.90 MB
+Memory % : 0.42
+Threads Count : 62
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : IntelAudioService.exe
+PID : 6612
+CPU % : 0.00
+Memory RSS : 29.83 MB
+Memory VMS : 23.04 MB
+Memory % : 0.19
+Threads Count : 6
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 6624
+CPU % : 0.00
+Memory RSS : 47.74 MB
+Memory VMS : 28.46 MB
+Memory % : 0.30
+Threads Count : 14
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : ipfsvc.exe
+PID : 6640
+CPU % : 0.00
+Memory RSS : 8.93 MB
+Memory VMS : 1.97 MB
+Memory % : 0.06
+Threads Count : 7
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : ipf_uf.exe
+PID : 6656
+CPU % : 0.00
+Memory RSS : 12.11 MB
+Memory VMS : 3.05 MB
+Memory % : 0.08
+Threads Count : 5
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 6668
+CPU % : 0.00
+Memory RSS : 48.12 MB
+Memory VMS : 38.19 MB
+Memory % : 0.30
+Threads Count : 17
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 6684
+CPU % : 0.00
+Memory RSS : 14.52 MB
+Memory VMS : 3.12 MB
+Memory % : 0.09
+Threads Count : 6
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : servicehost.exe
+PID : 6744
+CPU % : 0.00
+Memory RSS : 40.43 MB
+Memory VMS : 24.76 MB
+Memory % : 0.26
+Threads Count : 90
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 6772
+CPU % : 0.00
+Memory RSS : 26.67 MB
+Memory VMS : 5.34 MB
+Memory % : 0.17
+Threads Count : 9
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : RtkBtManServ.exe
+PID : 6804
+CPU % : 0.00
+Memory RSS : 10.61 MB
+Memory VMS : 2.48 MB
+Memory % : 0.07
+Threads Count : 3
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : WMIRegistrationService.exe
+PID : 6812
+CPU % : 0.00
+Memory RSS : 14.98 MB
+Memory VMS : 2.94 MB
+Memory % : 0.09
+Threads Count : 2
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : RtkAudUService64.exe
+PID : 6820
+CPU % : 0.00
+Memory RSS : 18.43 MB
+Memory VMS : 26.91 MB
+Memory % : 0.12
+Threads Count : 18
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : OfficeClickToRun.exe
+PID : 6828
+CPU % : 0.00
+Memory RSS : 46.85 MB
+Memory VMS : 21.23 MB
+Memory % : 0.30
+Threads Count : 19
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 6844
+CPU % : 0.00
+Memory RSS : 24.82 MB
+Memory VMS : 4.78 MB
+Memory % : 0.16
+Threads Count : 8
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 6852
+CPU % : 0.00
+Memory RSS : 9.38 MB
+Memory VMS : 1.76 MB
+Memory % : 0.06
+Threads Count : 2
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 6872
+CPU % : 0.00
+Memory RSS : 7.00 MB
+Memory VMS : 1.34 MB
+Memory % : 0.04
+Threads Count : 3
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : mysqld.exe
+PID : 6880
+CPU % : 0.00
+Memory RSS : 10.46 MB
+Memory VMS : 33.31 MB
+Memory % : 0.07
+Threads Count : 3
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : mc-fw-host.exe
+PID : 6908
+CPU % : 0.00
+Memory RSS : 225.43 MB
+Memory VMS : 311.94 MB
+Memory % : 1.43
+Threads Count : 179
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : conhost.exe
+PID : 7096
+CPU % : 0.00
+Memory RSS : 8.65 MB
+Memory VMS : 1.49 MB
+Memory % : 0.05
+Threads Count : 5
+Open Files Count : 1
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : cmd.exe
+PID : 7220
+CPU % : 0.00
+Memory RSS : 4.11 MB
+Memory VMS : 1.95 MB
+Memory % : 0.03
+Threads Count : 1
+Open Files Count : 0
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : mysqld.exe
+PID : 7304
+CPU % : 0.00
+Memory RSS : 64.56 MB
+Memory VMS : 586.91 MB
+Memory % : 0.41
+Threads Count : 39
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : ETDCtrl.exe
+PID : 7328
+CPU % : 0.00
+Memory RSS : 15.42 MB
+Memory VMS : 7.29 MB
+Memory % : 0.10
+Threads Count : 13
+Open Files Count : 1
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : conhost.exe
+PID : 7380
+CPU % : 0.00
+Memory RSS : 8.58 MB
+Memory VMS : 1.60 MB
+Memory % : 0.05
+Threads Count : 4
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : NgcIso.exe
+PID : 7432
+CPU % : 0.00
+Memory RSS : 3.66 MB
+Memory VMS : 1.24 MB
+Memory % : 0.02
+Threads Count : 1
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 7592
+CPU % : 0.00
+Memory RSS : 11.62 MB
+Memory VMS : 2.39 MB
+Memory % : 0.07
+Threads Count : 5
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : powershell.exe
+PID : 7776
+CPU % : 0.00
+Memory RSS : 58.03 MB
+Memory VMS : 62.66 MB
+Memory % : 0.37
+Threads Count : 9
+Open Files Count : 7
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 8392
+CPU % : 0.00
+Memory RSS : 15.25 MB
+Memory VMS : 3.02 MB
+Memory % : 0.10
+Threads Count : 3
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : uihost.exe
+PID : 8472
+CPU % : 0.00
+Memory RSS : 34.01 MB
+Memory VMS : 17.00 MB
+Memory % : 0.22
+Threads Count : 65
+Open Files Count : 3
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : ipf_helper.exe
+PID : 8480
+CPU % : 0.00
+Memory RSS : 8.77 MB
+Memory VMS : 1.80 MB
+Memory % : 0.06
+Threads Count : 4
+Open Files Count : 0
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 9032
+CPU % : 0.00
+Memory RSS : 15.10 MB
+Memory VMS : 3.86 MB
+Memory % : 0.10
+Threads Count : 9
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 9220
+CPU % : 0.00
+Memory RSS : 7.36 MB
+Memory VMS : 1.27 MB
+Memory % : 0.05
+Threads Count : 1
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : mc-fw-host.exe
+PID : 9236
+CPU % : 0.00
+Memory RSS : 27.10 MB
+Memory VMS : 10.70 MB
+Memory % : 0.17
+Threads Count : 46
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : conhost.exe
+PID : 9260
+CPU % : 0.00
+Memory RSS : 8.63 MB
+Memory VMS : 1.50 MB
+Memory % : 0.05
+Threads Count : 5
+Open Files Count : 1
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : aswEngSrv.exe
+PID : 9860
+CPU % : 0.00
+Memory RSS : 27.07 MB
+Memory VMS : 47.84 MB
+Memory % : 0.17
+Threads Count : 47
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 10056
+CPU % : 0.00
+Memory RSS : 8.70 MB
+Memory VMS : 2.18 MB
+Memory % : 0.06
+Threads Count : 7
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : conhost.exe
+PID : 10148
+CPU % : 0.00
+Memory RSS : 8.86 MB
+Memory VMS : 1.50 MB
+Memory % : 0.06
+Threads Count : 5
+Open Files Count : 1
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : chrome.exe
+PID : 10448
+CPU % : 0.00
+Memory RSS : 21.65 MB
+Memory VMS : 8.80 MB
+Memory % : 0.14
+Threads Count : 10
+Open Files Count : 7
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 10464
+CPU % : 0.00
+Memory RSS : 33.14 MB
+Memory VMS : 7.73 MB
+Memory % : 0.21
+Threads Count : 7
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 10856
+CPU % : 0.00
+Memory RSS : 14.70 MB
+Memory VMS : 2.34 MB
+Memory % : 0.09
+Threads Count : 2
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : IntelGraphicsSoftware.Service.exe
+PID : 10956
+CPU % : 0.00
+Memory RSS : 36.90 MB
+Memory VMS : 11.21 MB
+Memory % : 0.23
+Threads Count : 15
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : explorer.exe
+PID : 11328
+CPU % : 0.00
+Memory RSS : 336.32 MB
+Memory VMS : 331.81 MB
+Memory % : 2.13
+Threads Count : 110
+Open Files Count : 78
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : AggregatorHost.exe
+PID : 11344
+CPU % : 0.00
+Memory RSS : 17.63 MB
+Memory VMS : 5.14 MB
+Memory % : 0.11
+Threads Count : 2
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : RtkAudUService64.exe
+PID : 11436
+CPU % : 0.00
+Memory RSS : 18.17 MB
+Memory VMS : 25.47 MB
+Memory % : 0.11
+Threads Count : 7
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 11536
+CPU % : 0.00
+Memory RSS : 23.07 MB
+Memory VMS : 5.47 MB
+Memory % : 0.15
+Threads Count : 9
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedge.exe
+PID : 11572
+CPU % : 0.00
+Memory RSS : 24.59 MB
+Memory VMS : 21.68 MB
+Memory % : 0.16
+Threads Count : 15
+Open Files Count : 8
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : AdobeCollabSync.exe
+PID : 11588
+CPU % : 0.00
+Memory RSS : 40.03 MB
+Memory VMS : 22.68 MB
+Memory % : 0.25
+Threads Count : 28
+Open Files Count : 12
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : python.exe
+PID : 11672
+CPU % : 0.00
+Memory RSS : 26.35 MB
+Memory VMS : 15.24 MB
+Memory % : 0.17
+Threads Count : 5
+Open Files Count : 2
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : powershell.exe
+PID : 11716
+CPU % : 0.00
+Memory RSS : 57.70 MB
+Memory VMS : 62.99 MB
+Memory % : 0.37
+Threads Count : 9
+Open Files Count : 7
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : mc-extn-browserhost.exe
+PID : 11816
+CPU % : 0.00
+Memory RSS : 15.46 MB
+Memory VMS : 7.20 MB
+Memory % : 0.10
+Threads Count : 49
+Open Files Count : 2
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 11832
+CPU % : 0.00
+Memory RSS : 0.49 MB
+Memory VMS : 14.57 MB
+Memory % : 0.00
+Threads Count : 23
+Open Files Count : 19
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : conhost.exe
+PID : 12076
+CPU % : 0.00
+Memory RSS : 10.04 MB
+Memory VMS : 1.39 MB
+Memory % : 0.06
+Threads Count : 2
+Open Files Count : 1
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : CrossDeviceResume.exe
+PID : 12132
+CPU % : 0.00
+Memory RSS : 72.16 MB
+Memory VMS : 39.62 MB
+Memory % : 0.46
+Threads Count : 8
+Open Files Count : 10
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : PresentMonService.exe
+PID : 12164
+CPU % : 0.00
+Memory RSS : 13.00 MB
+Memory VMS : 6.84 MB
+Memory % : 0.08
+Threads Count : 10
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 12180
+CPU % : 0.00
+Memory RSS : 15.78 MB
+Memory VMS : 3.61 MB
+Memory % : 0.10
+Threads Count : 12
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : Code.exe
+PID : 12312
+CPU % : 0.00
+Memory RSS : 144.30 MB
+Memory VMS : 123.94 MB
+Memory % : 0.91
+Threads Count : 56
+Open Files Count : 67
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 12452
+CPU % : 0.00
+Memory RSS : 32.41 MB
+Memory VMS : 9.76 MB
+Memory % : 0.21
+Threads Count : 14
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 12568
+CPU % : 0.00
+Memory RSS : 11.17 MB
+Memory VMS : 2.70 MB
+Memory % : 0.07
+Threads Count : 8
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : HPSystemEventUtilityBackground.exe
+PID : 12620
+CPU % : 0.00
+Memory RSS : 55.98 MB
+Memory VMS : 41.11 MB
+Memory % : 0.35
+Threads Count : 11
+Open Files Count : 15
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : chrome.exe
+PID : 12828
+CPU % : 0.00
+Memory RSS : 240.86 MB
+Memory VMS : 216.48 MB
+Memory % : 1.52
+Threads Count : 31
+Open Files Count : 66
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 13160
+CPU % : 0.00
+Memory RSS : 4.86 MB
+Memory VMS : 145.81 MB
+Memory % : 0.03
+Threads Count : 43
+Open Files Count : 4
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 13176
+CPU % : 0.00
+Memory RSS : 41.04 MB
+Memory VMS : 8.29 MB
+Memory % : 0.26
+Threads Count : 8
+Open Files Count : 7
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : chrome.exe
+PID : 13232
+CPU % : 0.00
+Memory RSS : 322.55 MB
+Memory VMS : 408.77 MB
+Memory % : 2.04
+Threads Count : 33
+Open Files Count : 57
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 13344
+CPU % : 0.00
+Memory RSS : 28.67 MB
+Memory VMS : 4.98 MB
+Memory % : 0.18
+Threads Count : 4
+Open Files Count : 3
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : RtkAudUService64.exe
+PID : 13404
+CPU % : 0.00
+Memory RSS : 20.28 MB
+Memory VMS : 26.91 MB
+Memory % : 0.13
+Threads Count : 13
+Open Files Count : 1
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : SearchHost.exe
+PID : 13456
+CPU % : 0.00
+Memory RSS : 161.29 MB
+Memory VMS : 94.70 MB
+Memory % : 1.02
+Threads Count : 26
+Open Files Count : 33
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : StartMenuExperienceHost.exe
+PID : 13492
+CPU % : 0.00
+Memory RSS : 135.25 MB
+Memory VMS : 95.12 MB
+Memory % : 0.86
+Threads Count : 17
+Open Files Count : 21
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : FileSyncHelper.exe
+PID : 13560
+CPU % : 0.00
+Memory RSS : 27.12 MB
+Memory VMS : 5.69 MB
+Memory % : 0.17
+Threads Count : 6
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : chrome.exe
+PID : 13856
+CPU % : 0.00
+Memory RSS : 8.50 MB
+Memory VMS : 2.43 MB
+Memory % : 0.05
+Threads Count : 7
+Open Files Count : 2
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : AVGUI.exe
+PID : 13976
+CPU % : 0.00
+Memory RSS : 54.62 MB
+Memory VMS : 48.23 MB
+Memory % : 0.35
+Threads Count : 48
+Open Files Count : 0
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 14140
+CPU % : 0.00
+Memory RSS : 28.29 MB
+Memory VMS : 4.40 MB
+Memory % : 0.18
+Threads Count : 3
+Open Files Count : 8
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : Widgets.exe
+PID : 14176
+CPU % : 0.00
+Memory RSS : 72.16 MB
+Memory VMS : 14.57 MB
+Memory % : 0.46
+Threads Count : 17
+Open Files Count : 20
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 14204
+CPU % : 0.00
+Memory RSS : 23.21 MB
+Memory VMS : 6.02 MB
+Memory % : 0.15
+Threads Count : 5
+Open Files Count : 7
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : WhatsApp.Root.exe
+PID : 14224
+CPU % : 0.00
+Memory RSS : 268.73 MB
+Memory VMS : 155.84 MB
+Memory % : 1.70
+Threads Count : 39
+Open Files Count : 150
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : chrome.exe
+PID : 14364
+CPU % : 0.00
+Memory RSS : 211.45 MB
+Memory VMS : 150.68 MB
+Memory % : 1.34
+Threads Count : 46
+Open Files Count : 178
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : WidgetService.exe
+PID : 14516
+CPU % : 0.00
+Memory RSS : 26.39 MB
+Memory VMS : 5.34 MB
+Memory % : 0.17
+Threads Count : 5
+Open Files Count : 10
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 14588
+CPU % : 0.00
+Memory RSS : 37.45 MB
+Memory VMS : 12.66 MB
+Memory % : 0.24
+Threads Count : 23
+Open Files Count : 17
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 14780
+CPU % : 0.00
+Memory RSS : 4.66 MB
+Memory VMS : 173.86 MB
+Memory % : 0.03
+Threads Count : 41
+Open Files Count : 4
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 14968
+CPU % : 0.00
+Memory RSS : 4.77 MB
+Memory VMS : 14.56 MB
+Memory % : 0.03
+Threads Count : 21
+Open Files Count : 19
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 15024
+CPU % : 0.00
+Memory RSS : 16.29 MB
+Memory VMS : 44.65 MB
+Memory % : 0.10
+Threads Count : 52
+Open Files Count : 134
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : conhost.exe
+PID : 15044
+CPU % : 0.00
+Memory RSS : 8.63 MB
+Memory VMS : 1.49 MB
+Memory % : 0.05
+Threads Count : 5
+Open Files Count : 1
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 15156
+CPU % : 0.00
+Memory RSS : 8.59 MB
+Memory VMS : 2.50 MB
+Memory % : 0.05
+Threads Count : 7
+Open Files Count : 1
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 15344
+CPU % : 0.00
+Memory RSS : 0.02 MB
+Memory VMS : 9.33 MB
+Memory % : 0.00
+Threads Count : 10
+Open Files Count : 21
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : UserOOBEBroker.exe
+PID : 15376
+CPU % : 0.00
+Memory RSS : 10.03 MB
+Memory VMS : 1.80 MB
+Memory % : 0.06
+Threads Count : 1
+Open Files Count : 0
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : chrome.exe
+PID : 15664
+CPU % : 0.00
+Memory RSS : 19.47 MB
+Memory VMS : 10.13 MB
+Memory % : 0.12
+Threads Count : 12
+Open Files Count : 24
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : ApplicationFrameHost.exe
+PID : 15700
+CPU % : 0.00
+Memory RSS : 49.26 MB
+Memory VMS : 49.43 MB
+Memory % : 0.31
+Threads Count : 27
+Open Files Count : 7
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedge.exe
+PID : 15760
+CPU % : 0.00
+Memory RSS : 40.82 MB
+Memory VMS : 61.70 MB
+Memory % : 0.26
+Threads Count : 17
+Open Files Count : 4
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : mc-neo-host.exe
+PID : 15836
+CPU % : 0.00
+Memory RSS : 30.27 MB
+Memory VMS : 23.76 MB
+Memory % : 0.19
+Threads Count : 6
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID : 15856
+CPU % : 0.00
+Memory RSS : 41.46 MB
+Memory VMS : 7.33 MB
+Memory % : 0.26
+Threads Count : 10
+Open Files Count : 4
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : LockApp.exe
+PID : 15892
+CPU % : 0.00
+Memory RSS : 92.18 MB
+Memory VMS : 56.33 MB
+Memory % : 0.58
+Threads Count : 18
+Open Files Count : 13
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : browserhost.exe
+PID : 15948
+CPU % : 0.00
+Memory RSS : 14.77 MB
+Memory VMS : 7.68 MB
+Memory % : 0.09
+Threads Count : 50
+Open Files Count : 0
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : AVGUI.exe
+PID : 16252
+CPU % : 0.00
+Memory RSS : 32.46 MB
+Memory VMS : 14.78 MB
+Memory % : 0.21
+Threads Count : 10
+Open Files Count : 0
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : FileCoAuth.exe
+PID : 16356
+CPU % : 0.00
+Memory RSS : 37.79 MB
+Memory VMS : 12.93 MB
+Memory % : 0.24
+Threads Count : 9
+Open Files Count : 8
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : OneDrive.Sync.Service.exe
+PID : 16432
+CPU % : 0.00
+Memory RSS : 15.27 MB
+Memory VMS : 39.19 MB
+Memory % : 0.10
+Threads Count : 15
+Open Files Count : 20
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 16560
+CPU % : 0.00
+Memory RSS : 16.02 MB
+Memory VMS : 2.24 MB
+Memory % : 0.10
+Threads Count : 2
+Open Files Count : 1
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : TextInputHost.exe
+PID : 16984
+CPU % : 0.00
+Memory RSS : 128.60 MB
+Memory VMS : 121.04 MB
+Memory % : 0.81
+Threads Count : 40
+Open Files Count : 34
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 17148
+CPU % : 0.00
+Memory RSS : 28.54 MB
+Memory VMS : 12.87 MB
+Memory % : 0.18
+Threads Count : 17
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : Code.exe
+PID : 17208
+CPU % : 0.00
+Memory RSS : 195.70 MB
+Memory VMS : 235.61 MB
+Memory % : 1.24
+Threads Count : 44
+Open Files Count : 5
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : PhoneExperienceHost.exe
+PID : 17472
+CPU % : 0.00
+Memory RSS : 162.54 MB
+Memory VMS : 78.21 MB
+Memory % : 1.03
+Threads Count : 19
+Open Files Count : 158
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 17528
+CPU % : 0.00
+Memory RSS : 0.02 MB
+Memory VMS : 10.67 MB
+Memory % : 0.00
+Threads Count : 10
+Open Files Count : 15
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : SystemSettings.exe
+PID : 17628
+CPU % : 0.00
+Memory RSS : 2.10 MB
+Memory VMS : 200.79 MB
+Memory % : 0.01
+Threads Count : 54
+Open Files Count : 20
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : unsecapp.exe
+PID : 17768
+CPU % : 0.00
+Memory RSS : 10.36 MB
+Memory VMS : 1.86 MB
+Memory % : 0.07
+Threads Count : 3
+Open Files Count : 0
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : SecurityHealthService.exe
+PID : 17808
+CPU % : 0.00
+Memory RSS : 22.80 MB
+Memory VMS : 7.84 MB
+Memory % : 0.14
+Threads Count : 6
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 17856
+CPU % : 0.00
+Memory RSS : 11.15 MB
+Memory VMS : 2.93 MB
+Memory % : 0.07
+Threads Count : 9
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 17908
+CPU % : 0.00
+Memory RSS : 9.61 MB
+Memory VMS : 1.81 MB
+Memory % : 0.06
+Threads Count : 5
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 17924
+CPU % : 0.00
+Memory RSS : 14.97 MB
+Memory VMS : 3.43 MB
+Memory % : 0.09
+Threads Count : 11
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 18104
+CPU % : 0.00
+Memory RSS : 32.75 MB
+Memory VMS : 10.53 MB
+Memory % : 0.21
+Threads Count : 8
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : chrome.exe
+PID : 18116
+CPU % : 0.00
+Memory RSS : 25.29 MB
+Memory VMS : 15.61 MB
+Memory % : 0.16
+Threads Count : 14
+Open Files Count : 9
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 18400
+CPU % : 0.00
+Memory RSS : 13.95 MB
+Memory VMS : 1.86 MB
+Memory % : 0.09
+Threads Count : 3
+Open Files Count : 2
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : HPMediaNetwork.exe
+PID : 18428
+CPU % : 0.00
+Memory RSS : 53.35 MB
+Memory VMS : 44.41 MB
+Memory % : 0.34
+Threads Count : 11
+Open Files Count : 6
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 18544
+CPU % : 0.00
+Memory RSS : 48.33 MB
+Memory VMS : 42.86 MB
+Memory % : 0.31
+Threads Count : 11
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : ShellHost.exe
+PID : 18560
+CPU % : 0.00
+Memory RSS : 53.46 MB
+Memory VMS : 37.55 MB
+Memory % : 0.34
+Threads Count : 10
+Open Files Count : 5
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID : 18780
+CPU % : 0.00
+Memory RSS : 13.10 MB
+Memory VMS : 2.30 MB
+Memory % : 0.08
+Threads Count : 3
+Open Files Count : 0
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedge.exe
+PID : 18816
+CPU % : 0.00
+Memory RSS : 127.21 MB
+Memory VMS : 61.96 MB
+Memory % : 0.81
+Threads Count : 56
+Open Files Count : 134
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 18928
+CPU % : 0.00
+Memory RSS : 6.03 MB
+Memory VMS : 46.44 MB
+Memory % : 0.04
+Threads Count : 54
+Open Files Count : 100
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 19292
+CPU % : 0.00
+Memory RSS : 29.02 MB
+Memory VMS : 15.02 MB
+Memory % : 0.18
+Threads Count : 24
+Open Files Count : 19
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : OmenCommandCenterBackground.exe
+PID : 19976
+CPU % : 0.00
+Memory RSS : 243.53 MB
+Memory VMS : 265.77 MB
+Memory % : 1.54
+Threads Count : 128
+Open Files Count : 163
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : Code.exe
+PID : 19992
+CPU % : 0.00
+Memory RSS : 117.09 MB
+Memory VMS : 165.16 MB
+Memory % : 0.74
+Threads Count : 35
+Open Files Count : 9
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 20124
+CPU % : 0.00
+Memory RSS : 9.21 MB
+Memory VMS : 2.55 MB
+Memory % : 0.06
+Threads Count : 9
+Open Files Count : 1
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 20180
+CPU % : 0.00
+Memory RSS : 7.89 MB
+Memory VMS : 10.00 MB
+Memory % : 0.05
+Threads Count : 10
+Open Files Count : 15
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 20284
+CPU % : 0.00
+Memory RSS : 27.40 MB
+Memory VMS : 15.14 MB
+Memory % : 0.17
+Threads Count : 11
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 20700
+CPU % : 0.00
+Memory RSS : 19.47 MB
+Memory VMS : 3.73 MB
+Memory % : 0.12
+Threads Count : 5
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : Grammarly.Desktop.exe
+PID : 20724
+CPU % : 0.00
+Memory RSS : 309.89 MB
+Memory VMS : 238.05 MB
+Memory % : 1.96
+Threads Count : 66
+Open Files Count : 159
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : chrome.exe
+PID : 20860
+CPU % : 0.00
+Memory RSS : 45.49 MB
+Memory VMS : 22.92 MB
+Memory % : 0.29
+Threads Count : 19
+Open Files Count : 22
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : conhost.exe
+PID : 20876
+CPU % : 0.00
+Memory RSS : 8.66 MB
+Memory VMS : 1.58 MB
+Memory % : 0.05
+Threads Count : 3
+Open Files Count : 4
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 20884
+CPU % : 0.00
+Memory RSS : 506.52 MB
+Memory VMS : 513.43 MB
+Memory % : 3.21
+Threads Count : 36
+Open Files Count : 35
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : dllhost.exe
+PID : 21220
+CPU % : 0.00
+Memory RSS : 11.81 MB
+Memory VMS : 1.97 MB
+Memory % : 0.07
+Threads Count : 2
+Open Files Count : 0
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID : 21252
+CPU % : 0.00
+Memory RSS : 29.54 MB
+Memory VMS : 4.88 MB
+Memory % : 0.19
+Threads Count : 4
+Open Files Count : 3
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : Code.exe
+PID : 21296
+CPU % : 0.00
+Memory RSS : 30.17 MB
+Memory VMS : 10.59 MB
+Memory % : 0.19
+Threads Count : 7
+Open Files Count : 2
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : chrome.exe
+PID : 21580
+CPU % : 0.00
+Memory RSS : 70.20 MB
+Memory VMS : 39.66 MB
+Memory % : 0.44
+Threads Count : 29
+Open Files Count : 23
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : AVGUI.exe
+PID : 21624
+CPU % : 0.00
+Memory RSS : 44.70 MB
+Memory VMS : 22.68 MB
+Memory % : 0.28
+Threads Count : 11
+Open Files Count : 0
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : conhost.exe
+PID : 21680
+CPU % : 0.00
+Memory RSS : 8.77 MB
+Memory VMS : 1.71 MB
+Memory % : 0.06
+Threads Count : 3
+Open Files Count : 4
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID : 21840
+CPU % : 0.00
+Memory RSS : 21.11 MB
+Memory VMS : 2.84 MB
+Memory % : 0.13
+Threads Count : 3
+Open Files Count : 2
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 22096
+CPU % : 0.00
+Memory RSS : 12.30 MB
+Memory VMS : 2.31 MB
+Memory % : 0.08
+Threads Count : 4
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : Code.exe
+PID : 22308
+CPU % : 0.00
+Memory RSS : 105.00 MB
+Memory VMS : 86.70 MB
+Memory % : 0.66
+Threads Count : 25
+Open Files Count : 8
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : DesktopExtension.exe
+PID : 22384
+CPU % : 0.00
+Memory RSS : 52.28 MB
+Memory VMS : 34.44 MB
+Memory % : 0.33
+Threads Count : 11
+Open Files Count : 12
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : chrome.exe
+PID : 22436
+CPU % : 0.00
+Memory RSS : 50.46 MB
+Memory VMS : 66.72 MB
+Memory % : 0.32
+Threads Count : 22
+Open Files Count : 9
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : HP.HPX.exe
+PID : 22484
+CPU % : 0.00
+Memory RSS : 97.16 MB
+Memory VMS : 67.14 MB
+Memory % : 0.61
+Threads Count : 11
+Open Files Count : 12
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : svchost.exe
+PID : 22604
+CPU % : 0.00
+Memory RSS : 6.96 MB
+Memory VMS : 1.40 MB
+Memory % : 0.04
+Threads Count : 4
+Open Files Count : Access Denied
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : chrome.exe
+PID : 22696
+CPU % : 0.00
+Memory RSS : 43.14 MB
+Memory VMS : 48.41 MB
+Memory % : 0.27
+Threads Count : 12
+Open Files Count : 10
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedge.exe
+PID : 22972
+CPU % : 0.00
+Memory RSS : 8.56 MB
+Memory VMS : 2.45 MB
+Memory % : 0.05
+Threads Count : 7
+Open Files Count : 1
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : AppActions.exe
+PID : 23300
+CPU % : 0.00
+Memory RSS : 41.81 MB
+Memory VMS : 13.38 MB
+Memory % : 0.26
+Threads Count : 7
+Open Files Count : 0
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : pet.exe
+PID : 23408
+CPU % : 0.00
+Memory RSS : 7.45 MB
+Memory VMS : 1.81 MB
+Memory % : 0.05
+Threads Count : 1
+Open Files Count : 6
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 23480
+CPU % : 0.00
+Memory RSS : 9.57 MB
+Memory VMS : 2.43 MB
+Memory % : 0.06
+Threads Count : 7
+Open Files Count : 1
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : Code.exe
+PID : 23584
+CPU % : 0.00
+Memory RSS : 309.41 MB
+Memory VMS : 290.77 MB
+Memory % : 1.96
+Threads Count : 32
+Open Files Count : 53
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : powershell.exe
+PID : 23640
+CPU % : 0.00
+Memory RSS : 59.55 MB
+Memory VMS : 63.04 MB
+Memory % : 0.38
+Threads Count : 9
+Open Files Count : 7
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID : 23664
+CPU % : 0.00
+Memory RSS : 44.34 MB
+Memory VMS : 21.54 MB
+Memory % : 0.28
+Threads Count : 8
+Open Files Count : 2
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : chrome.exe
+PID : 23904
+CPU % : 0.00
+Memory RSS : 47.58 MB
+Memory VMS : 23.09 MB
+Memory % : 0.30
+Threads Count : 18
+Open Files Count : 22
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : Code.exe
+PID : 24516
+CPU % : 0.00
+Memory RSS : 174.72 MB
+Memory VMS : 181.38 MB
+Memory % : 1.11
+Threads Count : 23
+Open Files Count : 17
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 24632
+CPU % : 0.00
+Memory RSS : 75.80 MB
+Memory VMS : 36.07 MB
+Memory % : 0.48
+Threads Count : 19
+Open Files Count : 22
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : ShellExperienceHost.exe
+PID : 24656
+CPU % : 0.00
+Memory RSS : 84.08 MB
+Memory VMS : 52.45 MB
+Memory % : 0.53
+Threads Count : 22
+Open Files Count : 10
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : HPSystemEventUtilityHost.exe
+PID : 24812
+CPU % : 0.00
+Memory RSS : 34.73 MB
+Memory VMS : 34.88 MB
+Memory % : 0.22
+Threads Count : 6
+Open Files Count : 6
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : cmd.exe
+PID : 24848
+CPU % : 0.00
+Memory RSS : 6.21 MB
+Memory VMS : 2.20 MB
+Memory % : 0.04
+Threads Count : 1
+Open Files Count : 2
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 25280
+CPU % : 0.00
+Memory RSS : 21.64 MB
+Memory VMS : 8.92 MB
+Memory % : 0.14
+Threads Count : 10
+Open Files Count : 6
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : Code.exe
+PID : 25316
+CPU % : 0.00
+Memory RSS : 47.04 MB
+Memory VMS : 14.01 MB
+Memory % : 0.30
+Threads Count : 19
+Open Files Count : 16
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : powershell.exe
+PID : 26008
+CPU % : 0.00
+Memory RSS : 59.53 MB
+Memory VMS : 63.18 MB
+Memory % : 0.38
+Threads Count : 9
+Open Files Count : 7
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : Code.exe
+PID : 26376
+CPU % : 0.00
+Memory RSS : 101.61 MB
+Memory VMS : 11.62 MB
+Memory % : 0.64
+Threads Count : 8
+Open Files Count : 7
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : WindowsTerminal.exe
+PID : 26512
+CPU % : 0.00
+Memory RSS : 90.55 MB
+Memory VMS : 72.56 MB
+Memory % : 0.57
+Threads Count : 13
+Open Files Count : 12
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 26716
+CPU % : 0.00
+Memory RSS : 19.77 MB
+Memory VMS : 8.91 MB
+Memory % : 0.13
+Threads Count : 9
+Open Files Count : 12
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : powershell.exe
+PID : 26884
+CPU % : 0.00
+Memory RSS : 58.28 MB
+Memory VMS : 63.07 MB
+Memory % : 0.37
+Threads Count : 9
+Open Files Count : 7
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : Code.exe
+PID : 27120
+CPU % : 0.00
+Memory RSS : 96.68 MB
+Memory VMS : 118.27 MB
+Memory % : 0.61
+Threads Count : 23
+Open Files Count : 7
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : conhost.exe
+PID : 27204
+CPU % : 0.00
+Memory RSS : 8.58 MB
+Memory VMS : 1.48 MB
+Memory % : 0.05
+Threads Count : 5
+Open Files Count : 1
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+Process Name : Code.exe
+PID : 27308
+CPU % : 0.00
+Memory RSS : 441.53 MB
+Memory VMS : 534.80 MB
+Memory % : 2.79
+Threads Count : 17
+Open Files Count : 12
+Timestamp : Fri Feb 13 22:58:06 2026
+------------------------------------------------------------------------------------------
+
+Top 10 Memory Consuming Processes (RSS)
+------------------------------------------------------------------------------------------
+Process Name : MemCompression
+PID : 3684
+Memory RSS : 948.68 MB
+------------------------------------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 20884
+Memory RSS : 506.52 MB
+------------------------------------------------------------------------------------------
+Process Name : Code.exe
+PID : 27308
+Memory RSS : 441.53 MB
+------------------------------------------------------------------------------------------
+Process Name : explorer.exe
+PID : 11328
+Memory RSS : 336.32 MB
+------------------------------------------------------------------------------------------
+Process Name : chrome.exe
+PID : 13232
+Memory RSS : 322.55 MB
+------------------------------------------------------------------------------------------
+Process Name : Grammarly.Desktop.exe
+PID : 20724
+Memory RSS : 309.89 MB
+------------------------------------------------------------------------------------------
+Process Name : Code.exe
+PID : 23584
+Memory RSS : 309.41 MB
+------------------------------------------------------------------------------------------
+Process Name : WhatsApp.Root.exe
+PID : 14224
+Memory RSS : 268.73 MB
+------------------------------------------------------------------------------------------
+Process Name : OmenCommandCenterBackground.exe
+PID : 19976
+Memory RSS : 243.53 MB
+------------------------------------------------------------------------------------------
+Process Name : chrome.exe
+PID : 12828
+Memory RSS : 240.86 MB
+------------------------------------------------------------------------------------------
+End of Log File
+------------------------------------------------------------------------------------------
